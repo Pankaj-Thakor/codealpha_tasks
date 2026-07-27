@@ -1,0 +1,7 @@
+Bot : Welcome xyz
+xyz : help
+xyz : sql
+xyz : calculate
+xyz : java
+xyz : bye
+Bot : Session Ended
